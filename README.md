@@ -1,5 +1,13 @@
 # 💫 About Me:
-# Hi there, I'm Bharadwaj 👋<br><br>I'm **Kanneveti Vamsi Sai Bharadwaj**, a Software Engineer passionate about backend systems, developer tools, and open source. I enjoy contributing to real-world codebases and building reliable, high-quality software.<br><br>I'm currently **open to Software Engineer, Backend Engineer, and Full-Stack Engineer opportunities**, and I'm always excited to collaborate on impactful open-source and engineering projects.<br><br>* 🔭 I’m currently contributing to open-source projects across Rust, Python, and TypeScript ecosystems.<br>* 🌱 I’m currently learning Rust, distributed systems, and production-grade developer tools.<br>* 👯 I’m looking to collaborate on open-source projects, backend systems, and developer tooling.<br>* 💼 I’m currently **open to Software Engineer / Backend / Full-Stack opportunities**.<br>* 📫 How to reach me: **[bharadwajkanneveti@gmail.com](mailto:bharadwajkanneveti@gmail.com)** • **LinkedIn:** **[k-v-s-bharadwaj](https://www.linkedin.com/in/k-v-s-bharadwaj-48789a19a/)**<br>
+**👋 Hi, I'm Bharadwaj**
+
+A Software Engineer passionate about **backend engineering, developer tools, and open source**. I enjoy contributing to real-world codebases, solving challenging engineering problems, and building reliable, high-quality software.
+
+- 🔭 Contributing to open-source projects across **Rust, Python, and TypeScript**
+- 🌱 Currently learning **Rust, distributed systems, and production-grade developer tools**
+- 👯 Looking to collaborate on **open-source projects, backend systems, and developer tooling**
+- 💼 **Open to Software Engineer, Backend Engineer, and Full-Stack Engineer opportunities**
+- 📫 **Email:** [bharadwajkanneveti@gmail.com](mailto:bharadwajkanneveti@gmail.com) • **[LinkedIn](https://www.linkedin.com/in/k-v-s-bharadwaj-48789a19a/)**
 
 
 ## 🌐 Socials:
