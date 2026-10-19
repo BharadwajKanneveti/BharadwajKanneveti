@@ -1,10 +1,10 @@
 # 💫 About Me:
 **👋 Hi, I'm Bharadwaj**
 
-A Software Engineer passionate about **backend engineering, developer tools, and open source**. I enjoy contributing to real-world codebases, solving challenging engineering problems, and building reliable, high-quality software.
+A Software Engineer passionate about **backend engineering, AI/ML, and open source**. I enjoy contributing to real-world codebases, solving challenging engineering problems, and building reliable, high-quality software.
 
 - 🔭 Contributing to open-source projects across **Rust, Python, and TypeScript**
-- 🌱 Currently learning **Rust, distributed systems, and production-grade developer tools**
+- 🌱 Currently learning **AI/ML, distributed systems, and production-grade developer tools**
 - 👯 Looking to collaborate on **open-source projects, backend systems, and developer tooling**
 - 💼 **Open to Software Engineer, Backend Engineer, and Full-Stack Engineer opportunities**
 - 📫 **Email:** [bharadwajkanneveti@gmail.com](mailto:bharadwajkanneveti@gmail.com) • **[Portfolio](https://portfolio-omega-nine-9bowg7h4i7.vercel.app/)** • **[LinkedIn](https://www.linkedin.com/in/k-v-s-bharadwaj-48789a19a/)**
